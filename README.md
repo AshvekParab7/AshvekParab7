@@ -1,6 +1,6 @@
 <!-- 🔥 Futuristic Banner + Animated Intro -->
 <p align="center">
-  <img src="low-poly-grid-haikei.svg" width="100%" alt="Banner">
+  <img src="banner.svg" width="100%" alt="Banner">
 </p>
 
 <p align="center">
