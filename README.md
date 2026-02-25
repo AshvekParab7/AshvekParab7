@@ -6,7 +6,7 @@
 <a href="mailto:ashvekparab2006@gmail.com">
   <img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="18px"/>
 </a>
-<a href="https://github.com/ashvekparab">
+<a href="https://github.com/AshvekParab7">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" height="18px"/>
 </a>
 
@@ -66,8 +66,8 @@ Full-stack construction logistics platform with booking management, scheduling, 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvekparab&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvekparab&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshvekParab7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshvekParab7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
