@@ -37,25 +37,14 @@ Developed a full-stack logistics management platform for **Sheshank Transport**,
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-C • C++ • Python • Java • JavaScript
-
-### Frontend
-HTML • CSS • React • React Native • Flutter
-
-### Backend
-Django • Node.js
-
-### AI / ML
-LangChain • RAG • YOLOv8 • Random Forest • OpenCV
-
-### Tools
-Git • GitHub • Figma • XAMPP
-
-### Core CS
-Data Structures & Algorithms • Object-Oriented Programming • DBMS • Software Engineering
+<h2>TECHNICAL SKILLS</h2>
+<div class="skills-list">
+    <p><strong>Languages:</strong> C, C++, Python, Java, JavaScript</p>
+    <p><strong>Technologies:</strong> HTML, CSS, React, React Native, Django, Node.js, Flutter</p>
+    <p><strong>Domains:</strong> Artificial Intelligence, Machine Learning, Computer Vision, IoT, Full-Stack Development</p>
+    <p><strong>Tools:</strong> Git, GitHub, Figma, XAMPP, Arduino</p>
+    <p><strong>Core CS:</strong> DSA, OOP, DBMS, Software Engineering</p>
+</div>
 
 ---
 
