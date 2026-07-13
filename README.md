@@ -56,15 +56,7 @@ Developed a full-stack logistics management platform for **Sheshank Transport**,
 - 🧩 Data Structures & Algorithms
 - 🚀 Building impactful software projects
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Add GitHub stats cards here -->
-</p>
-
----
 
 ## 📫 Connect With Me
 
