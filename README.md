@@ -69,6 +69,7 @@ Developed a full-stack logistics management platform for **Sheshank Transport**,
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashvek%20Parab-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashvek-parab)
+
 [![Email](https://img.shields.io/badge/Email-ashvekparab2006%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ashvekparab2006@gmail.com)
 
 ---
