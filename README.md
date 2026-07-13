@@ -68,8 +68,9 @@ Developed a full-stack logistics management platform for **Sheshank Transport**,
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AshvekParab7
-- LinkedIn: https://linkedin.com/in/ashvek-parab
+- 📧 **Email:** ashvekparab2006@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ashvek-parab
+- 💻 **GitHub:** https://github.com/AshvekParab7
 
 ---
 
