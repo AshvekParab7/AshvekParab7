@@ -75,5 +75,5 @@ Developed a full-stack logistics management platform for **Sheshank Transport**,
 ---
 
 <p align="center">
-  <i>"Learning, building, and improving—one project at a time."</i>
+ <i>"Always learning. Always building."</i>
 </p>
