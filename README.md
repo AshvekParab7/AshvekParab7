@@ -33,7 +33,7 @@ AI + IoT healthcare platform featuring disease detection, AI chatbot, voice stre
 AI-powered career guidance platform developed for Smart India Hackathon (SIH) 2025 with personalized recommendations, resume builder, and learning resources.
 
 ### 🚚 Construction Logistics Management System
-Full-stack web platform for managing construction material orders, delivery tracking, inventory, billing, and admin operations.
+Developed a full-stack logistics management platform for **Sheshank Transport**, enabling customers to order construction materials, track deliveries, manage inventory, calculate distance-based pricing, and streamline business operations through an admin dashboard.
 
 ---
 
