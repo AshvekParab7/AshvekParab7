@@ -31,30 +31,51 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+<p align="center">
+  <b>Computer Engineering Student • Full-Stack Developer • AI/ML & IoT Builder</b>
+</p>
 
-```yaml
-Name: Ashvek Parab
-Role: Computer Engineering Student
-College: Agnel Institute of Engineering and Management, Goa
-CGPA: 9.8+
-Focus:
-  - Artificial Intelligence & Machine Learning
-  - Full-Stack Development
-  - Computer Vision
-  - IoT & Edge Systems
-  - Data Structures & Algorithms
+<p align="center">
+  I build practical technology at the intersection of
+  <b>AI, software, computer vision and hardware</b>.
+  <br/>
+  I enjoy turning ideas into working products — especially through
+  <b>hackathons, rapid prototyping and real-world projects.</b>
+</p>
 
-Currently:
-  - Building AI-powered applications
-  - Exploring RAG & LLM systems
-  - Improving DSA & problem solving
-  - Participating in hackathons
-  - Turning ideas into working prototypes
-```
+<br>
 
-I enjoy building technology that goes beyond a classroom project — from **AI-powered student productivity systems** and **flood monitoring platforms** to **IoT energy optimization**, **voice assistants**, and **computer-vision applications**.
+<div align="center">
+
+🏆 <b>4× Hackathon Winner</b> &nbsp; • &nbsp;
+🥈 <b>Regional 2nd Place</b> &nbsp; • &nbsp;
+🥉 <b>3rd Place × 1</b>
+
+<br><br>
+
+🎓 <b>Computer Engineering</b> @ Agnel Institute of Engineering and Management, Goa
+<br>
+📊 <b>9.8+ CGPA</b>
+
+</div>
+
+<br>
+
+### 🚀 What I Build
+
+- 🤖 **AI / ML Applications** — LLMs, RAG, AI assistants & intelligent systems
+- 👁️ **Computer Vision** — YOLO, OpenCV, detection & real-world vision systems
+- ⚛️ **Full-Stack Applications** — React, Django, Node.js & modern web systems
+- 🔌 **IoT & Edge AI** — ESP32, sensors, automation & intelligent hardware
+- 🧠 **Developer Tools & Platforms** — productivity, education & real-world problem solving
+
+### ⚡ Currently
+
+Building ambitious projects, competing in hackathons, strengthening **DSA & AI/ML**, and exploring how **AI + software + hardware** can be combined to solve practical problems.
+
+> **Code → Build → Compete → Learn → Repeat. 🚀**
 
 ---
 
@@ -428,13 +449,20 @@ Problem Solving
 
 ---
 
-# 🐍 Contribution Graph
 
-<div align="center">
+<h2 align="center">🐍 Contribution Graph</h2>
 
-<img src="https://raw.githubusercontent.com/AshvekParab7/AshvekParab7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AshvekParab7/AshvekParab7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AshvekParab7/AshvekParab7/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/AshvekParab7/AshvekParab7/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-</div>
 
 ---
 
