@@ -488,36 +488,6 @@ Problem Solving
 
 ---
 
-# 🏅 Hackathon Journey
-
-```text
-First Projects
-      ↓
-Tech Urja
-      ↓
-MindGuard 🥇
-      ↓
-SEROS 🥇
-      ↓
-Smart India Hackathon
-      ↓
-AI / IoT / Computer Vision Projects
-      ↓
-FloodVision 🥇
-      ↓
-HackWarz 2K26 🥇
-      ↓
-RISE 🥈 Regional Hackathon
-      ↓
-IBM SkillsBuild AI Hackathon
-      ↓
-Samsung Solve for Tomorrow
-      ↓
-More ideas. More builds. More experiments. 🚀
-```
-
----
-
 # 🎨 Beyond Coding
 
 ⚽ Football  
