@@ -57,7 +57,6 @@
 
 🎓 <b>Computer Engineering</b> @ Agnel Institute of Engineering and Management, Goa
 <br>
-📊 <b>9.8+ CGPA</b>
 
 </div>
 
